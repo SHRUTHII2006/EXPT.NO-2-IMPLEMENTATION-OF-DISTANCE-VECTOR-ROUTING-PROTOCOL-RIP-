@@ -4,13 +4,19 @@
 To connect computers in multiple networks using Distance Vector Routing Protocol and to verify the connectivity between computers.
 # EQUIPMENTS REQUIRED:
 
+<img width="998" height="1600" alt="WhatsApp Image 2026-09-17 at 07 30 01" src="https://github.com/user-attachments/assets/38ba4eda-1764-4c89-b046-b23c8c90d984" />
 
 
 # IP ASSIGNMENT:
+<img width="809" height="1600" alt="WhatsApp Image 2026-09-17 at 07 30 23" src="https://github.com/user-attachments/assets/358fa482-bcf1-4a72-814a-53e5cd5c84d8" />
+<img width="1600" height="785" alt="WhatsApp Image 2026-09-17 at 07 30 48" src="https://github.com/user-attachments/assets/69341b66-d9fa-4b81-acba-9a47733c4d0e" />
 
 
 
 # NETWORK DIAGRAM:
+
+<img width="1017" height="1600" alt="WhatsApp Image 2026-09-17 at 07 31 44" src="https://github.com/user-attachments/assets/3e5341f7-8b87-480e-b77a-e76e1bab939e" />
+
 # PROCEDURE:
 
 STEP 1: Open a Packet Tracer Software.
@@ -80,6 +86,7 @@ You can also check connectivity between the PCs on different networks to ensure 
  
 # OUTPUT
 
+<img width="1304" height="1600" alt="WhatsApp Image 2026-09-17 at 07 31 44 (1)" src="https://github.com/user-attachments/assets/13eaf98b-208e-43a4-9c72-24b4c8ff341c" />
 
 
 # RESULT:
